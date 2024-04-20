@@ -29,7 +29,7 @@ body{
 .block{
     position: absolute;
     top:200px;
-    right: 600px;
+    right: 300px;
     perspective: 800px;
 }
 .outside,.inside{
